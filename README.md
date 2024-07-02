@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/chitranshitayal?t=-pnkoaaox5dyfrxwyhl3la&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/chitranshitayal?t=-pnkoaaox5dyfrxwyhl3la&s=08" height="30" width="40" /></a>
+<a href="tayalchitranshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/chitranshitayal?t=-pnkoaaox5dyfrxwyhl3la&s=08" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chitranshi tayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chitranshi tayal" height="30" width="40" /></a>
 <a href="https://kaggle.com/chitranshi tayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chitranshi tayal" height="30" width="40" /></a>
 <a href="https://instagram.com/tayalchitranshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tayalchitranshi" height="30" width="40" /></a>
