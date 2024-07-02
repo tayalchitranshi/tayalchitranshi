@@ -2,9 +2,8 @@
 <h3 align="center">I am diligently enhancing my expertise in Python, SQL, data visualisation techniques, and Tableau.</h3>
 <img align="centre" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-<p align="centre"> <a href="https://twitter.com/https://x.com/chitranshitayal?t=-pnkoaaox5dyfrxwyhl3la&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/chitranshitayal?t=-pnkoaaox5dyfrxwyhl3la&s=08?logo=twitter&style=for-the-badge" alt="https://x.com/chitranshitayal?t=-pnkoaaox5dyfrxwyhl3la&s=08" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/tayalchitranshi](https://github.com/tayalchitranshi)
+- <p align="centre"> <a href="Twitter - tayalchitranshi" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/chitranshitayal?t=-pnkoaaox5dyfrxwyhl3la&s=08?logo=twitter&style=for-the-badge" alt="https://x.com/chitranshitayal?t=-pnkoaaox5dyfrxwyhl3la&s=08" /></a> </p>
 
 - 💬 Ask me about **PowerBI, Tableau, Python, SQL**
 
