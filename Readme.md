@@ -2,10 +2,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chitranshi Tayal
 =======================================================================================================================================
 
-Software Developer ![](https://komarev.com/ghpvc/?username=tayalchitranshi&color=blueviolet&style=flat-square)
+Data Analyst ![](https://komarev.com/ghpvc/?username=tayalchitranshi&color=blueviolet&style=flat-square)
 ------------------
 
-I'm a software developer with a strong SQL focus and growing expertise in Python.
+I'm a data analyst with a strong SQL focus and growing expertise in Python.
 
 * 🌍  I'm based in Agra, India
 * ✉️  You can contact me at [chitranshitayal@gmail.com](mailto:chitranshitayal@gmail.com)
